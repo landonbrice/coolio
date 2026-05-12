@@ -1,0 +1,190 @@
+5 minutes is 300 seconds and you need every one. I'm building this for nine slides at ~33 seconds each, with a tight rhetorical arc: stakes → article → model → five filters → counterfactual close. Each filter slide is structured identically so the audience locks into the rhythm.
+
+Slide 1 — Opening Hook (~25 sec)
+On screen: Just the WSJ headline screenshot, full width. Below it, in smaller text: "March 11, 2019."
+What to source:
+
+Screenshot the WSJ headline: "The FAA Has No Current Plans to Ground Boeing's 737 MAX After Deadly Crash." Robert Wall, Andrew Tangel, and Andy Pasztor. Date and byline visible. Find via UChicago library access (ProQuest WSJ archive) or the Wayback Machine.
+
+What you say: "On October 29, 2018, Lion Air Flight 610 crashed. 189 dead. On March 10, 2019, Ethiopian Airlines Flight 302 crashed. 157 dead. Same aircraft. Same MCAS system. The next morning, the Wall Street Journal — America's paper of business record — chose to frame the news this way."
+(Pause. Let the audience read the headline.)
+
+Slide 2 — The Article in Context (~35 sec)
+On screen: Split layout. Left side: photo of the two crashed aircraft (or memorial photos). Right side: a simple timeline:
+
+Oct 29, 2018 — Lion Air 610: 189 dead
+Nov 13, 2018 — MCAS revealed (WSJ broke this)
+Mar 10, 2019 — Ethiopian 302: 157 dead
+Mar 11 (AM) — China grounds 737 MAX
+Mar 11 — WSJ headline runs
+Mar 12-13 — EU, UK, Australia, Singapore, India ground
+Mar 13 — FAA finally grounds (last major regulator)
+
+What to source:
+
+Photos of Lion Air 610 wreckage and Ethiopian 302 wreckage (Reuters, AP, public domain). Use respectfully — these are people, not props.
+Optional: photos of Bhavye Suneja (Lion Air captain) and Yared Getachew (Ethiopian captain). Both have publicly available portraits.
+
+What you say: "By the time this article ran, China had already grounded the plane. Within 72 hours, 51 regulators worldwide grounded it. The FAA stood alone. The WSJ chose to frame the FAA's reluctance as the news — not the converging global consensus that this aircraft was killing people. Why? That's what the propaganda model explains."
+
+Slide 3 — Chomsky's Five Filters (~25 sec)
+On screen: A schematic of the five filters as a funnel or sequential gates. Label each one:
+
+Ownership & profit orientation
+Advertising
+Sourcing
+Flak
+Unifying ideology (anticommunism → ?)
+
+Below: a single Chomsky quote.
+The quote: "The constraints are so powerful, and are built into the system in such a fundamental way, that alternative bases of news choices are hardly imaginable." — Herman & Chomsky, Manufacturing Consent, p. 2
+What to source:
+
+A clean image of the Manufacturing Consent book cover for visual reference
+Verbatim quote — pull from the project base, attribute correctly
+
+What you say: "Chomsky's argument is structural, not moral. The journalists in this case are not bad. Pasztor and Tangel actually broke the MCAS self-certification story. The propaganda model isn't a claim about individual bias. It's a claim about what survives passage through five structural filters."
+
+Slide 4 — Filter 1: Ownership (~35 sec)
+On screen: Two-column comparison.
+Left column header: "WSJ — owner class"
+
+Owner: News Corp (Murdoch family)
+One of the world's largest media conglomerates
+WSJ calculates the Dow Jones Industrial Average
+Reader base: corporate-financial elite
+
+Right column header: "Boeing — same class"
+
+Top 30 US corporation
+Largest American exporter (2019)
+Dow Jones Industrial Average component
+Defense contractor (Pentagon's prime)
+Anchor employer for WA + SC
+
+Bottom line: Same elite. Same interlocks. Same class position.
+What to source:
+
+News Corp ownership chart (public; Wikipedia or annual report)
+Boeing's Dow Jones membership graphic
+Optional: News Corp board of directors composition — Chomsky's table 1-3 (p. 11) shows the pattern, you're updating it
+
+What you say: "Filter 1 is not about Murdoch giving orders. It's about structural class identity. The WSJ exists as the paper of corporate America. Boeing is corporate America. The publication doesn't have to be told to cover Boeing carefully — it covers Boeing the way a class member covers another class member: critically interested, not adversarial."
+
+Slide 5 — Filter 2: Advertising (~30 sec)
+On screen: Title at top: "WSJ's advertiser ecology in 2019."
+Below, a logo grid: Boeing, Lockheed Martin, Northrop Grumman, GE Aerospace, Honeywell, Southwest, American, United, Delta, JPMorgan, Goldman, BlackRock.
+Below the grid: "Filter 2 doesn't kill individual articles. It kills sustained campaigns."
+What to source:
+
+Logo grid of major WSJ advertisers in aerospace, defense, finance. Public-domain logos, no licensing risk.
+Optional: a screenshot of a Boeing print ad from a 2019 WSJ issue if you can find one
+
+What you say: "WSJ's reader base — corporate executives, institutional investors, money managers — holds Boeing in their portfolios, their pension funds, their company stock plans. The advertiser ecology is the same ecology. A single critical article? Fine. A multi-month campaign reframing American manufacturing as systemically unsafe? That would shift the publication's relationship to its entire reader-advertiser ecology. So it doesn't happen."
+
+Slide 6 — Filter 3: Sourcing (~40 sec — give this one extra time)
+On screen: A source breakdown of the actual WSJ article. Two columns.
+Left: "Voices that structure the story"
+
+The FAA (authoritative on its own decision)
+Boeing (authoritative on its own aircraft)
+US airline executives (Southwest, American, United)
+Anonymous "industry officials"
+
+Right: "Voices that appear only as reactions"
+
+Mitt Romney (calling for grounding)
+Foreign regulators (China, EU)
+Victims' families: absent
+Ethiopian/Indonesian regulators: absent
+
+Bottom quote: "Officials have and give the facts; reporters merely get them." — Mark Fishman, in Chomsky p. 19
+What to source:
+
+Highlight the actual sources in the WSJ article — screenshot key paragraphs with sources highlighted
+The Fishman/Chomsky quote
+Dominic Gates's Seattle Times piece, March 17, 2019, on FAA self-certification — this is the critical comparison piece your essay can lean on later
+
+What you say: "This is filter 3 in operation, visible inside the article. The FAA gets framed as authority, not as a regulator that delegated certification to Boeing employees. The captured-regulator story was reportable — Dominic Gates at the Seattle Times broke it six days later. The WSJ team knew the issue existed. They didn't lead with it. Why? Because reframing the FAA from 'authoritative source' to 'captured regulator' breaks the aviation beat. The beat is how aviation reporters survive commercially. So the frame stays."
+
+Slide 7 — Filter 4: Flak (~30 sec)
+On screen: Headline: "Boeing's flak apparatus, 2019."
+Below, bullets:
+
+White-shoe PR firms on retainer
+Defamation lawyers ready to issue letters
+Pentagon relationships (Boeing's a top defense contractor)
+Acting Defense Secretary Patrick Shanahan: former Boeing executive
+Congressional offices in every Boeing state
+
+Bottom line: "Flak doesn't have to land. It has to be anticipated."
+What to source:
+
+A still from the Frontline/NYT documentary "Boeing's Fatal Flaw" (2021) — particularly any frame showing Boeing's PR/legal pressure on journalists
+A photo of Patrick Shanahan (his Boeing background is a fact, not opinion — public record)
+Optional: a screenshot from a Dominic Gates interview discussing pressure he received
+
+What you say: "Chomsky's insight here is that flak is most powerful when invisible. There's no record of Boeing threatening Pasztor or Tangel over this article. But they had been covering Boeing for years. They knew which framings generate calls to the publisher, which ones lose access to the media office, which ones cost the beat. The softening choices — 'deadly crash' rather than 'second mass-fatality crash,' 'the FAA's decision' rather than 'the regulator that let Boeing certify itself' — are filter 4 working without anyone having to make a threat."
+
+Slide 8 — Filter 5: The Updated Ideology (~40 sec — your analytical move)
+On screen: Three lines, large:
+
+Chomsky 1988: Anticommunism
+Chomsky 2002: The religion of the market
+2019 aviation: Techno-industrial nationalism
+
+Below, two columns:
+Worthy victims (1983) | Unworthy victims (2018-19)
+KAL 007 passengers (Soviet shootdown) | Lion Air 610 (189 Indonesians)
+Sustained moral outrage | "Pilot training" framing
+Reagan: "cold-blooded murder" | Ethiopian 302 (157 dead)
+Years of coverage | 132 days before grounding
+Bottom quote: "Concentrate on the victims of enemy powers and forget about the victims of friends." — Herman & Chomsky, p. 32
+What to source:
+
+The Chomsky quote on dichotomization (p. 32)
+A KAL 007 NYT front page from September 1983 if findable
+The original Boeing PR framing of foreign pilot training inadequacy (multiple sources from late 2018)
+
+What you say: "Chomsky's original filter 5 was anticommunism — the binary that defined worthy and unworthy victims. He updated it in 2002 to 'the religion of the market.' For 2019 aviation coverage, I'd argue the operative filter 5 is techno-industrial nationalism: American manufacturing supremacy as quasi-religious national interest. The worthy/unworthy victims structure is identical to 1983 KAL 007. Different ideology, same filter. The dead were Indonesian, Indian, Ethiopian, Kenyan. The initial framing leaned on 'foreign pilot training.' Imagine the alternative."
+
+Slide 9 — The Counterfactual Close (~30 sec)
+On screen: A mocked-up alternative headline, formatted in the same WSJ typography:
+
+"Pressure Mounts on FAA to Ground 737 MAX as Second Crash Kills 157"
+By [byline] — March 11, 2019
+
+Below: "This is the headline if 346 Americans had died."
+Below that: "The filters didn't lie. They selected."
+What to source:
+
+Build the mock headline in WSJ typography — they use Escrow as their primary serif. You can fake it in any serif font; the audience will read the substance, not the typeface.
+
+What you say: "If 346 Americans had died on two domestic flights of the same aircraft in five months, this would have been the headline. Same facts, different victims, different filter output. The propaganda model isn't a claim that this article lied. It's a claim that the structural conditions of its production — Murdoch's WSJ covering a major American manufacturer, Boeing's flak apparatus, the access economy on the aviation beat, the techno-nationalist common sense — selected for the framing we got. Chomsky's model holds. Filter 5 has just rotated from anticommunism to techno-industrial nationalism."
+(End. Don't trail off. Pause, then thank them.)
+
+Pre-presentation checklist
+Screenshots to have on hand:
+
+The WSJ headline + first 2-3 paragraphs (March 11, 2019)
+Dominic Gates / Seattle Times self-certification piece headline (March 17, 2019)
+A Boeing print ad from a 2019 WSJ issue (if locatable)
+The Chomsky filters page from the project base (p. 2) — for your own reference, not the slides
+Photos: Lion Air wreckage, Ethiopian wreckage, the two pilots
+
+Numbers to memorize cold:
+
+189 dead (Lion Air, Oct 29 2018)
+157 dead (Ethiopian, Mar 10 2019)
+346 total
+51 regulators worldwide grounded by March 13
+72 hours between Ethiopian crash and FAA grounding
+132 days between Lion Air crash and Ethiopian crash
+
+Three Chomsky quotes to have available, in case Q&A goes there:
+
+p. 2 on filter naturalness ("operating with complete integrity and goodwill")
+p. 19 Fishman quote on bureaucratic affinity
+p. 32 commissar quote (worthy/unworthy victims)
+
+The one risk: if you run long on the filters and short on the close, the counterfactual loses its punch. Time the filter slides in practice — 30-35 seconds each, no more. The close is where the paper lands.
