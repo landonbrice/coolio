@@ -1,0 +1,189 @@
+# Master Vision: The Boeing 737 MAX Article as a Test Case for Chomsky's Propaganda Model
+
+## I. The Master Argument
+
+Robert Wall, Andrew Tangel, and Andy Pasztor's *Wall Street Journal* article of March 11, 2019 — "The FAA Has No Current Plans to Ground Boeing's 737 MAX After Deadly Crash" — is not propaganda in the colloquial sense. It is the product of competent reporters with a track record of critical coverage of Boeing. Pasztor and Tangel had broken the MCAS self-certification story four months earlier. They were not lying, omitting under instruction, or carrying water for the Boeing PR office. And that is precisely the point.
+
+The article is what Chomsky and Herman call "the cleansed residue fit to print" — the news that survives passage through five structural filters that operate not on individual journalists but on the conditions under which journalism gets produced. The filters select what kinds of stories can be assembled cheaply, sustained commercially, framed coherently, and consumed by the publication's reader-advertiser ecology. The journalists make individual choices in good faith. The filters select for which good-faith choices become institutionally viable.
+
+The thesis of this paper is twofold. First: every one of Chomsky's five filters can be shown operating on this single article in March 2019, and the filters reinforce one another such that no single filter is decisive — they jointly produce the framing that emerged. Second: Chomsky's fifth filter, originally anticommunism, has rotated its content for 2019 American business journalism into what I will call **techno-industrial nationalism** — the framing of American manufacturing supremacy, and specifically aviation supremacy against Airbus and rising Chinese aviation, as a quasi-religious national interest that critical scrutiny must accommodate. The structural function of filter 5 — generating worthy and unworthy victim categories that organize sustained moral attention — is identical between 1983 and 2019. The ideological content has updated. The model survives the update. That is the analytical contribution this paper makes.
+
+The counterfactual that proves the argument: if 346 Americans had died on two domestic flights of the same aircraft in five months, the *WSJ* headline on March 11, 2019 would not have read "FAA Has No Current Plans to Ground Boeing's 737 MAX." The structural conditions of news production selected for the framing we got. Different victims would have produced different filter outputs. Chomsky's KAL 007 logic — "Concentrate on the victims of enemy powers and forget about the victims of friends" (p. 32) — operates in 2019 against the friends of American manufacturing.
+
+---
+
+## II. The Article and Its Stakes
+
+On October 29, 2018, Lion Air Flight 610 crashed into the Java Sea twelve minutes after takeoff from Jakarta. All 189 people aboard died. Within two weeks, Pasztor and Tangel at the *WSJ* identified the Maneuvering Characteristics Augmentation System (MCAS) — a previously undisclosed stall-prevention system Boeing had added to the 737 MAX — as the suspected cause. The story should have produced a sustained reframing of the aircraft's safety. It did not.
+
+On March 10, 2019, Ethiopian Airlines Flight 302 crashed six minutes after takeoff from Addis Ababa. All 157 people aboard died. The aircraft was the same model. The flight profile was nearly identical to Lion Air 610. The deaths now totaled 346 across two crashes of the same aircraft model in 132 days.
+
+Within hours of the second crash, China's Civil Aviation Administration grounded the 737 MAX. By March 12, the European Union, the United Kingdom, Australia, Singapore, India, and dozens of other regulators had grounded the aircraft. The FAA refused. For 72 hours after the second crash, the FAA stood alone among major aviation regulators in defending continued commercial operation of an aircraft that had now killed 346 people.
+
+On the morning of March 11, 2019 — the day China grounded the plane, before the EU did, when the FAA was already isolating itself — the *Wall Street Journal* published the article under analysis. The headline framed the news as the FAA's reluctance to ground, not as the worldwide regulatory consensus that the aircraft was unsafe. The article's structure took the FAA's position as the default and treated foreign action as deviation from default. It is this framing choice, in this article, on this day, that the propaganda model explains.
+
+Two facts to hold throughout the analysis. First, the *WSJ* aviation team had broken the MCAS story. They were not naive about Boeing. Second, by March 17 — six days after the article ran — Dominic Gates at the *Seattle Times* published the story that Boeing employees had been doing self-certification of safety-critical systems under FAA delegated authority. The captured-regulator framing was reportable in March 2019. The *WSJ* team had the access and expertise to develop it. They did not. The propaganda model explains why.
+
+---
+
+## III. The Propaganda Model: What Chomsky Is Actually Claiming
+
+Before applying the filters, the model itself needs to be set up correctly, because the most common misreading — and the one your professor will most reward you for not making — is the claim that Chomsky thinks journalists are corrupt, that publications are state-controlled, or that the news is "fake."
+
+Chomsky and Herman are explicit on this. The filters operate, in their words, "so naturally that media news people, frequently operating with complete integrity and goodwill, are able to convince themselves that they choose and interpret the news 'objectively' and on the basis of professional news values. Within the limits of the filter constraints they often are objective; the constraints are so powerful, and are built into the system in such a fundamental way, that alternative bases of news choices are hardly imaginable" (Manufacturing Consent, p. 2).
+
+The model is structural. It claims that "the raw material of news must pass through successive filters, leaving only the cleansed residue fit to print. They fix the premises of discourse and interpretation, and the definition of what is newsworthy in the first place" (p. 2). The journalists are not the filters. The journalists are the operators of a process whose constraints are determined upstream of any individual editorial choice.
+
+Three implications of this framing matter for the Boeing case.
+
+First, the model is most powerful where it is least visible — where the journalism is competent, the journalists are sincere, and the output is professionally indistinguishable from independent reporting. This is exactly what Pasztor and Tangel are. The model is not refuted by showing the journalists are good. It is *confirmed* by showing that good journalists, under these structural conditions, produce this kind of output.
+
+Second, the filters operate sequentially and reinforce one another. Chomsky writes that "these elements interact with and reinforce one another" (p. 2). No single filter is decisive. The advertiser ecology (filter 2) shapes which beats are commercially viable (filter 3); Boeing's flak apparatus (filter 4) is sustained by the access economy (filter 3) that the structural class identity of the publication (filter 1) makes natural; the unifying ideology (filter 5) provides the cognitive shortcut that makes all of this feel like neutral, professional work. The proof of the model is in the conjunction.
+
+Third, the test of the model is at the macro level, not the article level. Chomsky writes: "It requires a macro, alongside a micro- (story-by-story), view of media operations, to see the pattern of manipulation and systematic bias" (p. 2). The Boeing case lets you do both — analyze the single article in detail while pointing to the broader pattern across the 132 days between Lion Air and Ethiopian, and the 72 hours of FAA isolation after Ethiopian.
+
+---
+
+## IV. Filter 1: Size, Ownership, and Structural Class Identity
+
+Chomsky's first filter is the structural fact that the dominant media firms "are quite large businesses; they are controlled by very wealthy people or by managers who are subject to sharp constraints by owners and other market-profit-oriented forces; and they are closely interlocked, and have important common interests, with other major corporations, banks, and government" (p. 14). The filter operates not because owners issue editorial commands but because the publication shares structural class position with its subjects.
+
+The *Wall Street Journal* in 2019 was — and remains — owned by News Corp, which Rupert Murdoch acquired through the Dow Jones takeover in 2007. News Corp is one of the largest media conglomerates in the world. The Murdoch family wealth is deeply embedded in American corporate networks. The *WSJ* itself is the financial-business publication of record for American capital. It literally calculates the Dow Jones Industrial Average, an index that included Boeing throughout 2019. Chomsky documents in Table 1-3 (p. 11) that the outside directors of the largest media companies are dominated by corporate executives, bankers, lawyers, and Council on Foreign Relations members. The same is true at News Corp. The class composition of *WSJ*'s ownership is indistinguishable from the class composition of the corporations the *WSJ* covers.
+
+Boeing in March 2019 was not merely a publicly traded company. It was one of the institutional pillars of American manufacturing and defense. Top 30 U.S. corporation by market capitalization (~$240B at the time of the crashes). Largest American exporter. Dow Jones Industrial Average component. Prime contractor for the U.S. military across multiple aircraft platforms. Anchor employer for the industrial economies of Washington State and South Carolina. Strategic supplier to NASA and the broader space program. To run a sustained critique of Boeing was to run a critique of the American manufacturing system that the *WSJ*'s controlling family and reader base understood themselves to be defending.
+
+The filter does not require any News Corp executive to call Pasztor. It requires only that the *WSJ* exists as the publication of record for the corporate-financial elite that owns Boeing equity, sits on Boeing-adjacent boards, supplies Boeing, regulates Boeing, and is governed by the same overlapping board networks Chomsky documents. The publication's structural identity makes Boeing a quasi-internal interest rather than an external object of scrutiny.
+
+The analytical move: filter 1 explains why the *WSJ* covered Boeing differently than, say, a foreign publication or a non-business publication. It is not about individual editorial bias. It is about whose interests the publication's structural identity treats as its own. Boeing's interests are not adversary interests for the *WSJ*. They are the interests of the publication's class.
+
+---
+
+## V. Filter 2: Advertising and the Reader Economy
+
+Chomsky's second filter, drawing on Curran and Seaton, holds that advertisers "acquired a de facto licensing authority since, without their support, newspapers ceased to be economically viable" (p. 14). The filter operates not by individual advertiser pressure on specific articles but by what kinds of *coverage patterns* a publication can sustain while keeping its advertiser ecology intact.
+
+The *WSJ*'s advertiser base in 2019 was the corporate-financial economy. Boeing itself advertised in the *WSJ*. So did Boeing's defense competitors (Lockheed Martin, Northrop Grumman, Raytheon). So did Boeing's commercial competitor (Airbus). So did Boeing's largest suppliers (GE Aerospace, Honeywell, Spirit AeroSystems, Pratt & Whitney, Collins Aerospace). So did the airlines flying the MAX (Southwest, American, United). Beyond aerospace, the *WSJ*'s advertiser base included the financial firms holding Boeing equity, the law firms representing Boeing, the consulting firms advising Boeing, and the investment banks underwriting Boeing's debt.
+
+The deeper move, though, is on the reader side. Chomsky notes that advertisers care less about audience size than about audience purchasing power and politically friendly climate. The *WSJ*'s reader base — financial executives, institutional investors, corporate management, business leaders — was itself structurally exposed to Boeing. They held Boeing in their pension funds, their company stock plans, their personal portfolios. Boeing was in the Dow, the S&P 500, every major index fund. Their employers did business with Boeing. The *WSJ*'s reader had a structural financial stake in Boeing not being treated as a fundamentally untrustworthy institution.
+
+The critical distinction Chomsky draws is between single articles and sustained campaigns. A single critical article — even one as sharp as Pasztor's MCAS reporting from November 2018 — does not threaten the advertiser ecology. What filter 2 prevents is what Chomsky calls the "sustained news campaign" (p. 30) — the multi-month structural reframing under which "Boeing's 737 MAX is unsafe and the FAA failed" becomes the publication's organizing claim, the headline frame, the lead of every related story. That kind of campaign shifts the publication's relationship to its entire reader-advertiser ecology. So it does not happen.
+
+The March 11 article reflects this constraint. The *WSJ* ran a single piece, headlined to the FAA's defensive position, on a day when 51 regulators worldwide were converging on the opposite conclusion. It did not declare a Boeing crisis. It declared an FAA decision. The article exists; the campaign does not.
+
+---
+
+## VI. Filter 3: Sourcing and the Beat Economy
+
+This is the filter that operates most visibly inside the article itself, and the one a careful analysis can most cleanly demonstrate.
+
+Chomsky's third filter: "The mass media are drawn into a symbiotic relationship with powerful sources of information by economic necessity and reciprocity of interest. The media need a steady, reliable flow of the raw material of news. They have daily news demands and imperative news schedules that they must meet... Economics dictates that they concentrate their resources where significant news often occurs, where important rumors and leaks abound, and where regular press conferences are held" (p. 18).
+
+The key conceptual move comes from Mark Fishman, whom Chomsky quotes: "Newsworkers are predisposed to treat bureaucratic accounts as factual because news personnel participate in upholding a normative order of authorized knowers in the society... a newsworker will recognize an official's claim to knowledge not merely as a claim, but as a credible, competent piece of knowledge. This amounts to a moral division of labor: officials have and give the facts; reporters merely get them" (p. 19).
+
+The March 11 *WSJ* article is built on this principle. The voices that structure the article are the FAA (authoritative on its own decision), Boeing (authoritative on its own aircraft), U.S. airline executives (sourced for continued operational confidence), and anonymous "industry officials" — almost certainly FAA, Boeing, or U.S. airline staff providing background framing. The voices that appear, when they appear at all, do so as reactions to the frame the institutional sources have set. Mitt Romney's call for grounding is a reaction. The foreign regulators (China, then the EU) are reactions. The families of the dead are not sourced. The Ethiopian Civil Aviation Authority is not centrally sourced. The Indonesian crash investigators from the previous fall are not re-engaged.
+
+Filter 3 is operating at full strength. The point is not that Pasztor and Tangel chose to ignore foreign sources. The point is that the cost economics of journalism make American institutional sources cheap and foreign or non-institutional sources expensive. Boeing's media office is professionalized, on-call, on U.S. business hours, with talking points pre-prepared. The Ethiopian regulator is none of those things. Boeing employees can be reached; the dead passengers' families are foreign, unprofessionalized, grieving, and on the other side of the world. Quoting Boeing is free. Building a counter-narrative from foreign-regulator and victim-family sources requires translation, time-zone management, expensive verification, and a different beat structure.
+
+The captured-regulator angle is the sharpest demonstration of filter 3 in this case. The story that Boeing employees were doing self-certification of safety-critical systems under FAA delegated authority — meaning, for many systems, the regulator and the regulated were the same person — was reportable in March 2019. Dominic Gates at the *Seattle Times* broke it on March 17, six days after the *WSJ* article. The story existed inside the aviation reporting community. The *WSJ* team had the expertise to develop it. They didn't lead with it on March 11. Why? Because reframing the FAA from "authoritative source" to "captured regulator" breaks the source relationship the aviation beat depends on. Beats are how aviation reporters survive commercially. Breaking the beat is professionally costly. So the structural fact stays out of the frame on the day it would have most mattered.
+
+The deeper insight, which is the move your paper should make explicit: filter 3 is not merely a sourcing filter. It is a *narrative-formation* filter. The sources you can cheaply and reliably access set the available frames. Any frame that would require new sources — captured-regulator framing, foreign-regulator-centered framing, victim-family-centered framing — requires a structural break from the beat. The beat is the commercial infrastructure of the reporting. So the frames the beat selects are the frames the publication can sustain.
+
+---
+
+## VII. Filter 4: Flak as Anticipatory Discipline
+
+Chomsky's fourth filter: "'Flak' refers to negative responses to a media statement or program. It may take the form of letters, telegrams, phone calls, petitions, lawsuits, speeches and bills before Congress, and other modes of complaint, threat, and punitive action... If flak is produced on a large scale, or by individuals or groups with substantial resources, it can be both uncomfortable and costly to the media" (p. 26).
+
+The critical analytical move comes in the next sentence: "The ability to produce flak, and especially flak that is costly and threatening, is related to power" (p. 26). And then: "If certain kinds of fact, position, or program are thought likely to elicit flak, this prospect can be a deterrent." Flak does not need to land. The anticipation of flak is sufficient.
+
+Boeing in March 2019 operated one of the most professionalized and aggressive corporate communications apparatuses in American business. They had multiple white-shoe PR firms on retainer. They had defamation lawyers ready to issue cease-and-desist letters. They had direct relationships with the Pentagon — Boeing is a top defense contractor, and the Trump administration's Acting Defense Secretary at the time of the crashes, Patrick Shanahan, was a former Boeing executive of more than three decades. They had congressional offices in every state where Boeing operated or sold aircraft. The Frontline/*NYT* documentary "Boeing's Fatal Flaw" (2021) later documented Boeing's pressure on journalists covering the MAX. Dominic Gates has reported publicly on the kinds of contacts Boeing PR made in response to his reporting.
+
+For Pasztor and Tangel on March 11, the question was not whether Boeing would threaten them over a single article. The question was the cumulative, anticipatory cost of writing a story that framed the FAA as captured and Boeing as a corporation whose certification process killed 189 people in October and 157 in March. That framing would generate: PR-office calls to the *WSJ* publisher, formal complaints to the editor, possible defamation-letter threats, lost access to the Boeing media office for future stories, lost access to the FAA media office for future stories, and possibly lost access to other aviation beats (Airbus, the airlines, the suppliers all watch how reporters treat Boeing). None of these costs need be active. They need only be *anticipated* by the reporters and editors making minute-by-minute framing choices.
+
+The softening choices in the article are the result. "Deadly crash" rather than "the second mass-fatality crash of the same aircraft in five months." "The FAA's decision" rather than "the regulator that delegated certification to the company it was regulating." The framing of the Trump administration's continued operation as a "decision" rather than a stand-alone outlier position. None of these are lies. They are the framing choices that survive anticipated flak.
+
+The deepest insight here, which makes filter 4 the most interesting one analytically: filter 4 operates most powerfully when it is invisible. The article contains no record of any flak Boeing produced because no flak was needed. Pasztor and Tangel are good enough reporters to anticipate the boundaries that protect their beat, and to write within them without anyone having to tell them where the boundaries are. This is what Chomsky means when he says (p. 2) the filters are "so powerful, and are built into the system in such a fundamental way, that alternative bases of news choices are hardly imaginable." Flak doesn't have to threaten. It has to be knowable to the journalist as a structural feature of the work.
+
+---
+
+## VIII. Filter 5: The Updated Ideology
+
+This is where the paper makes its analytical move beyond textbook application of Chomsky.
+
+Chomsky's original filter 5 was anticommunism. He calls it (p. 29) "a national religion and control mechanism" — a "fuzzy" concept that "can be used against anybody advocating policies that threaten property interests or support accommodation with Communist states and radicalism." The filter's structural power, in his account, lies in the worthy/unworthy victims distinction. As he puts it on pp. 32 and 35: "worthy victims will be featured prominently and dramatically, that they will be humanized, and that their victimization will receive the detail and context in story construction that will generate reader interest and sympathetic emotion. In contrast, unworthy victims will merit only slight detail, minimal humanization, and little context that will excite and enrage."
+
+His canonical illustration is the contrast between coverage of the Soviet shootdown of KAL 007 in September 1983 (sustained moral outrage, years of denunciation, presidential rhetoric about "cold-blooded murder") and Israel's shootdown of a Libyan civilian airliner in February 1973 (almost no coverage, the *NYT* explicitly arguing that "no useful purpose is served by an acrimonious debate over the assignment of blame"). Same act — military downing of a civilian airliner — different filter outputs. Chomsky's summary of the structural logic (p. 32): "the attention and general dichotomization occur 'naturally' as a result of the working of the filters, but the result is the same as if a commissar had instructed the media: 'Concentrate on the victims of enemy powers and forget about the victims of friends.'"
+
+Herman and Chomsky updated filter 5 in the 2002 introduction, allowing that the unifying ideology is no longer specifically anticommunism but something like "the religion of the market" — a broader pro-business, pro-capital ideology that organizes elite consensus across nominal political divisions.
+
+The paper's analytical move is to update this further for 2019 American business journalism on Boeing. The operative ideology is **techno-industrial nationalism**: the framing of American manufacturing supremacy — and specifically aviation supremacy against Airbus and the rising Chinese aviation industry (COMAC) — as a quasi-religious national interest that critical scrutiny must accommodate. The components: American manufacturing as quasi-religious civilizational good; aviation as national prestige (Boeing's heritage links to the 707, the 747, the moon landing); national-security adjacency (Boeing produces the P-8 Poseidon, the KC-46 Pegasus, ICBM components, and satellites on adjacent lines to its commercial aircraft); working-class jobs framing (Boeing employs ~150,000 in the U.S.); the competitive frame Boeing-vs.-Airbus, now updated to Boeing-vs.-China. The ideology is structurally analogous to anticommunism in Chomsky's original formulation: it provides a unifying common sense across elite political divisions, it organizes worthy and unworthy victim categories, and it makes deference to its presumptions feel like patriotism rather than position-taking.
+
+How this operates in the *WSJ* article:
+
+The framing of foreign regulators as reactions. China grounded the 737 MAX hours before the *WSJ* article was published. The article's posture treats this as a fact to be noted alongside the FAA's continued operation, not as the substantive challenge it actually was. The implicit binary is: trust the American regulator (presumptively neutral, professional, evidence-based) or trust the Chinese regulator (presumptively political, hasty, suspect). Under filter 5, that binary is automatic. Under any other frame, the question would be: why is the FAA defending a plane that 51 other major regulators have grounded? But under techno-industrial nationalism, the FAA's defense is the default position and the foreign action is the deviation requiring explanation.
+
+The worthy/unworthy victims structure. The dead on Lion Air 610 were 189 Indonesians, an Italian, and an Indian. The pilots were Bhavye Suneja (Indian, captain) and Harvino (Indonesian, first officer). The dead on Ethiopian Airlines 302 were 157 people from 35 countries, with the largest single nationalities being Kenyan, Canadian, Ethiopian, Chinese, and American. The pilots were Yared Getachew (Ethiopian, captain) and Ahmednur Mohammed Omar (Ethiopian, first officer). Boeing's initial defense in the months after Lion Air had leaned heavily on the framing that foreign pilot training was inadequate — the implicit framing being that American pilots would have handled the aircraft correctly. The *WSJ* article reproduces the categorical structure even where it does not state it explicitly. The "deadly crash" framing in the headline obscures that this is a 346-fatality two-crash crisis of a single aircraft model. The article does not humanize the dead. It does not name the pilots. It does not source the families. The structural treatment of these victims is exactly what Chomsky describes on p. 35: "only slight detail, minimal humanization, and little context that will excite and enrage."
+
+The point to land: filter 5 in 2019 has rotated its content from anticommunism to techno-industrial nationalism, but its function is identical. It is the durable structural fact of the model that an unworthy victim category exists; the content of that category — which victims, in which categorical relationship to the publication's reader-class — updates as the unifying ideology updates. The model survives the update. The Boeing case is the demonstration.
+
+---
+
+## IX. Synthesis: How the Filters Reinforce
+
+The strongest move the paper can make in synthesizing the filter analysis is to refuse to treat the filters as five independent variables. Chomsky himself insists on this (p. 2): "These elements interact with and reinforce one another."
+
+The reinforcement structure in the Boeing case:
+
+The *WSJ*'s structural class identity (filter 1) makes Boeing a class member rather than an external object. This class identity is sustained by the advertiser ecology (filter 2) that includes Boeing, its suppliers, its customers, and the financial firms that hold its equity. The advertiser ecology in turn shapes which beats are commercially viable, which makes the aviation beat dependent on access to Boeing and the FAA (filter 3). The access economy makes the captured-regulator framing structurally expensive even when reportable. Boeing's flak apparatus (filter 4) is sustained by all of the above — its capacity to threaten the *WSJ* is built on its relationship to *WSJ*'s reader class, its advertising spend, its centrality to the aviation beat, and its political relationships. And techno-industrial nationalism (filter 5) provides the cognitive shortcut that makes all of this feel like neutral, professional journalism — the unifying common sense under which deference to American manufacturing reads as patriotism rather than position-taking.
+
+No single filter produces the March 11 article's framing. The conjunction does. This is what Chomsky means by "the cleansed residue fit to print" (p. 2). The raw material of news — 346 dead, 51 regulators grounding the aircraft worldwide, a captured-regulator story reportable within a week — passes through the filters sequentially, and what comes out is an article framed around the FAA's reluctance. The article is not propaganda. It is filtered.
+
+The paper's analytical strength comes from holding this synthesis. Each filter, taken alone, can be argued against. An interlocutor could grant filter 1 and say it doesn't explain why specific framing choices got made. An interlocutor could grant filter 3 and say journalists work with sources everywhere, not just on Boeing. The model's force is conjunctive. It is the simultaneous and reinforcing operation of all five that produces the cleansed residue.
+
+---
+
+## X. The Counterfactual
+
+The counterfactual is the proof of the model and the strongest single rhetorical move the paper can make.
+
+If 346 Americans had died on two domestic flights of the same aircraft in five months, the *WSJ* headline on March 11, 2019 would not have read "FAA Has No Current Plans to Ground Boeing's 737 MAX." It would have read something closer to "Pressure Mounts on FAA to Ground 737 MAX as Second Crash Kills 157 Americans," and the article would have been structured around victim-family voices, congressional outrage, presidential statements, FAA defensiveness under that outrage, and the captured-regulator question as the lead rather than the eventual sixth-day follow-up.
+
+The filters select the same way against the same article, depending on who is dead. This is filter 5 operating exactly the way Chomsky described in KAL 007 — in your lifetime, in your industry, in the publication you are likely to read most weeks of your professional life. The structural logic that Chomsky's commissar imagined in 1988 still runs in 2019: concentrate on the victims of enemy powers, forget the victims of friends. Boeing is a friend. Indonesian, Ethiopian, Kenyan, and Indian victims are not within the worthy-victim category. The result is what the article looks like.
+
+---
+
+## XI. Anticipating Objections
+
+The strongest version of the paper anticipates and disarms the three most likely objections.
+
+**Objection 1: Pasztor and Tangel broke the MCAS story in November 2018. This proves the press is not captured.**
+
+The objection is correct that individual critical articles exist. The propaganda model does not claim otherwise. What the model claims is that the sustained campaign of structural reframing — the kind of coverage that would have moved the FAA to ground the aircraft after Lion Air rather than after Ethiopian — did not occur. The MCAS story appeared and faded. The structural critique of FAA self-certification did not become the lead frame. The reasoning aligns with Chomsky's distinction between articles and campaigns: "If certain kinds of fact, position, or program are thought likely to elicit flak, this prospect can be a deterrent" (p. 26). The individual article is permitted. The campaign is not.
+
+**Objection 2: The FAA did eventually ground the aircraft. The system worked.**
+
+The system worked on a delay of 72 hours after the Ethiopian crash and 132 days after the Lion Air crash. Within that delay, the FAA was the *last* major regulator to ground, not the first. The system worked because of foreign regulatory pressure, not because of American journalistic pressure. The propaganda model predicts exactly this: the corrective force on Boeing came from outside the American media-political-regulatory ecology, because that ecology's filters did not produce the corrective force endogenously. The system did not work in the sense that mattered. It externalized the corrective force to foreign actors.
+
+**Objection 3: Coverage turned critical after Ethiopian. This shows the press can self-correct.**
+
+Coverage turned critical after the structural facts changed — specifically, after 51 regulators worldwide grounded the aircraft and after Gates's self-certification story made the captured-regulator framing reportable inside the U.S. press. The press did not self-correct. It updated its framing once the structural conditions that supported the prior framing collapsed. The propaganda model accommodates this: filters are dynamic functions of structural conditions, not static commitments. When the conditions change, the output changes. The question is not whether the press can ever produce critical coverage. The question is what produces it: endogenous journalistic correction, or exogenous structural change. In the Boeing case, the answer is exogenous.
+
+---
+
+## XII. What This Paper Argues
+
+Five claims in summary, ordered from least to most ambitious:
+
+First, every one of Chomsky's five filters operates on the *WSJ* article of March 11, 2019, and the operation can be demonstrated from the text and from public structural facts about the *WSJ*, Boeing, and the aviation reporting beat. This is the descriptive claim.
+
+Second, the filters do not operate independently. They reinforce one another such that no individual filter is decisive — the joint operation produces the cleansed residue. This is the structural claim.
+
+Third, the journalists involved are not the explanatory variable. The filters operate even when the journalists are competent, sincere, and individually critical — which Pasztor and Tangel demonstrably are. This is the analytical-distinction claim, and it is the move that separates a sophisticated application of Chomsky from a naive one.
+
+Fourth, Chomsky's filter 5 has rotated its content from anticommunism (1988) to techno-industrial nationalism (2019) without changing its structural function. The worthy/unworthy victims distinction operates identically. This is the model-update claim, and it is the paper's analytical contribution.
+
+Fifth, the counterfactual proves the model. If 346 Americans had died, the same filters would have produced different output, because the worthy-victim category determines what the cleansed residue looks like. The model is not refuted by the existence of any individual article. It is confirmed by the structural pattern of which victims get which kinds of coverage. This is the proof claim.
+
+The paper holds that Chomsky's propaganda model, more than thirty years after its publication, applies to the *Wall Street Journal*'s coverage of the most consequential American aviation crisis of the twenty-first century — with one filter updated for the new century's dominant ideology, and the rest of the model intact.
+
+---
